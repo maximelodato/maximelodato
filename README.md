@@ -6,7 +6,7 @@
 
 💻 **À propos de moi :**
 
-Je suis passionné(e) par le développement web et j'aspire à devenir développeur fullstack. J'adore apprendre de nouvelles technologies et relever des défis chaque jour. La reconversion peut être un parcours exigeant, mais chaque étape est une occasion de grandir et d'enrichir mes compétences !
+Je suis passionné par le développement web et j'aspire à devenir développeur fullstack. J'adore apprendre de nouvelles technologies et relever des défis chaque jour. La reconversion peut être un parcours exigeant, mais chaque étape est une occasion de grandir et d'enrichir mes compétences !
 
 ⚡ **Fait amusant :**
 [J’ai travaillé dans L' immobilier avant de me lancer dans le développement !]
