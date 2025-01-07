@@ -15,16 +15,16 @@ Je suis passionné par le développement web et j'aspire à devenir développeur
 
 Voici quelques technologies et langages avec lesquels j'ai travaillé :
 
-- **Langages de programmation :** JavaScript, Ruby 
-- **Front-end :** React, Redux, Tailwind CSS, Sass
-- **Back-end :** Node.js, Strapi
+- **Langages de programmation :** JavaScript (ES6+),Ruby, HTML,
+ CSS,GraphQL,React.
+- **Back-end :** Strapi, Ruby on Rails (RoR),
 - **Outils et plateformes :** Git, Webpack, Vite, ESLint, pnpm
 
 ## 🚀 Mes compétences
 
 - Développement d'applications web réactives avec React
 - Gestion de l'état global avec Redux
-- Création d'interfaces utilisateur modernes avec Tailwind CSS et Sass
+- Création d'interfaces utilisateur modernes 
 - Configuration d'environnements de développement avec Webpack et Vite
 - Mise en place de Progressive Web Apps (PWA)
 - Intégration d'API RESTful et utilisation de Strapi en tant que CMS headless
